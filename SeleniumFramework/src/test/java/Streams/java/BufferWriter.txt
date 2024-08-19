@@ -1,0 +1,2 @@
+This sentence was written through buffer writer in Java sentence
+I am in next line
